@@ -1,0 +1,87 @@
+<!-- footer -->
+<footer class="footer_section">
+    <div class="footer_widget_area" style="background-image: url(images/bg_04.png);">
+        <div class="container">
+
+            <div class="row justify-content-lg-between">
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="footer_widget footer_about wow fadeInUp" data-wow-delay=".1s">
+                        <div class="brand_logo">
+                            <a class="brand_link" href="/">
+                                <img src="logo/brewbase-blck.png" alt="brewbase">
+
+                            </a>
+                        </div>
+
+                        <p>
+                            At BrewBase, we are committed to bringing you the finest selection of premium
+                            quality coffee beans, tea leaves, frappe, and other various of drinks here in our
+                            store, all available at competitive prices and delivered right to your doorstep, so
+                            you can enjoy your favorite beverages from the comfort of your own home.
+                        </p>
+                        <div class="brand_logo">
+                            <a class="brand_link" href="download/BrewBase.apk">
+                                <img src="logo/appandroid.png" alt="appforandroid" height="100px" width="160px">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="footer_widget footer_contact wow fadeInUp" data-wow-delay=".2s">
+                        <h3 class="footer_widget_title text-uppercase">Contact us</h3>
+                        <ul class="ul_li_block">
+                            <li><strong class="text-uppercase">Address:</strong> Ozamiz City, 7200 Misamis
+                                Occidental Philippines</li>
+                            <li><strong class="text-uppercase">Mail:</strong> brewbase.logiclynxz@gmail.com</li>
+                            <li><strong class="text-uppercase">Phone #:</strong> +63 0983 889 8498</li>
+                            <li><strong class="text-uppercase">tel #:</strong> (088) 3889-434</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="footer_widget footer_opening_time wow fadeInUp" data-wow-delay=".3s">
+                        <h3 class="footer_widget_title text-uppercase">Opening Hours</h3>
+                        <ul class="ul_li_block">
+                            <li>
+                                Monday
+                                <span>9:00AM - 4:00PM</span>
+                            </li>
+                            <li>
+                                Tuesday
+                                <span>9:00AM - 4:00PM</span>
+                            </li>
+                            <li>
+                                Wednesday
+                                <span>9:00AM - 4:00PM</span>
+                            </li>
+                            <li>
+                                Thusday
+                                <span>9:00AM - 4:00PM</span>
+                            </li>
+                            <li>
+                                Friday
+                                <span>9:00AM - 4:00PM</span>
+                            </li>
+                            <li>
+                                Saturday
+                                <span>12:00NN - 4:00PM</span>
+                            </li>
+                            <li>
+                                Sunday
+                                <span>Closed</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer_bottom text-center">
+        <div class="container">
+            <p class="copyright_text mb-0">BrewBase @ 2023</p>
+        </div>
+    </div>
+</footer>
