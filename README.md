@@ -27,7 +27,7 @@ Follow these steps to set up the project locally.
 
 Make sure you have the following installed on your machine:
 
-- PHP >= 7.4
+- PHP >= 8.1
 - Composer
 - Node.js & npm
 - MySQL
